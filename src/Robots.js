@@ -7,56 +7,110 @@ export const robots = [
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Adya Halde',
+    username: 'AdityaRaj',
+    email: 'AdityaRaj@gmail.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
+    name: 'Arnav Khokarale',
     username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    email: '@gmail.com'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
+    name: 'Ayush Alhat',
     username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    email: 'IsAGirl@gmail.com'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
+    name: 'Daksh Sharma',
     username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    email: 'WeirdForeigner@gmail.com'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
+    name: 'Devesh Udhapye',
     username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    email: 'DhoniSuckz@gmail.com'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
+    name: 'Devika Deulgaonkar',
     username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    email: 'ForgotHerExistence@gmail.com'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Ethan Mathew',
     username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    email: 'Mathuthuthuthu@gmail.com'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
+    name: 'Eywa Shakyavanshi',
     username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    email: 'RandomShortGirl@gmail.com'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'Gunika Malik',
     username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    email: 'DontVote4Malik@gmail.com'
   }
+  {
+    id: 11,
+    name: 'Karan Mhetar',
+    username: 'Delphine',
+    email: 'BestPersonToExist@gmail.com'
+  },
+  {
+    id: 12,
+    name: 'Lakshya Khanna',
+    username: 'Delphine',
+    email: 'CantGetGirlsButCanBeOneHimself@gmail.com'
+  },
+  {
+    id: 13,
+    name: 'Lee Eunseo',
+    username: 'Delphine',
+    email: 'Dog/Cat/Bat-Eater@gmail.com'
+  },
+  {
+    id: 14,
+    name: 'Lishika Zope',
+    username: 'Delphine',
+    email: 'BiggerMustacheThanUrDad@gmail.com'
+  },
+  {
+    id: 15,
+    name: 'Neev Gogia',
+    username: 'Delphine',
+    email: '2ndBestPersonToExist@gmail.com'
+  },
+  {
+    id: 16,
+    name: 'Renuka Garg',
+    username: 'Delphine',
+    email: 'UglyAssMidget@gmail.com'
+  },
+  {
+    id: 17,
+    name: 'Siddhi Chougule',
+    username: 'Delphine',
+    email: 'Minimum2Ton@gmail.com'
+  },
+  {
+    id: 18,
+    name: 'Soha Awekar',
+    username: 'Delphine',
+    email: 'AccentThickerThanJEETextbooks@gmail.com'
+  }
+  {
+    id: 19,
+    name: 'Tvisha Tikarya',
+    username: 'Delphine',
+    email: 'AlwaysDepressed@gmail.com'
+  },
 ];
